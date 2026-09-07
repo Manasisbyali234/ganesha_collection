@@ -1,0 +1,18 @@
+# Node
+node_modules/
+backend/.env
+
+# Flutter build artifacts
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/android/.gradle/
+flutter_app/android/.kotlin/
+flutter_app/android/local.properties
+flutter_app/ios/Flutter/ephemeral/
+flutter_app/ios/Flutter/Generated.xcconfig
+flutter_app/ios/Flutter/flutter_export_environment.sh
+flutter_app/ios/Runner/GeneratedPluginRegistrant.h
+flutter_app/ios/Runner/GeneratedPluginRegistrant.m
+flutter_app/macos/Flutter/ephemeral/
+flutter_app/pubspec.lock
+flutter_app/.flutter-plugins-dependencies
